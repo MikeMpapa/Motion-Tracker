@@ -1,4 +1,4 @@
-** HOW TO RUN
+** HOW TO RUN **
 
 1. Run Gui.m
 
@@ -28,14 +28,14 @@
 
 10. maximum track distance between frames --> maximum distance between to sequentially processed frames to identify an object as the same object
 
-** SYSTEM REQUIREMENTS 
+** SYSTEM REQUIREMENTS **
 
 1. Matlab 2014a and above
 
 2. webcam library
 
-** SCREENSHOTS 
+** SCREENSHOTS **
 
-<img src="https://github.com/MikeMpapa/Motion-Tracker/blob/master/fig3.PNG" width="500" height="500">
+<img src="https://github.com/MikeMpapa/Motion-Tracker/blob/master/fig3.PNG" width="400" height="400">
 
-<img src="https://github.com/MikeMpapa/Motion-Tracker/blob/master/fig4.PNG" width="500" height="500">
+<img src="https://github.com/MikeMpapa/Motion-Tracker/blob/master/fig4.PNG" width="400" height="$400">
