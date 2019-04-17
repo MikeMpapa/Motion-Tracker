@@ -1,3 +1,15 @@
+### Publication
+
+@inproceedings{papakostas2015monitoring,
+  title={Monitoring breathing activity and sleep patterns using multimodal non-invasive technologies},
+  author={Papakostas, Michalis and Staud, James and Makedon, Fillia and Metsis, Vangelis},
+  booktitle={Proceedings of the 8th ACM International Conference on PErvasive Technologies Related to Assistive Environments},
+  pages={78},
+  year={2015},
+  organization={ACM}
+}
+
+
 ** HOW TO RUN **
 
 1. Run Gui.m
@@ -39,3 +51,17 @@
 <img src="https://github.com/MikeMpapa/Motion-Tracker/blob/master/fig3.PNG" width="400" height="400">
 
 <img src="https://github.com/MikeMpapa/Motion-Tracker/blob/master/fig4.PNG" width="400" height="$400">
+
+
+
+
+### Publication
+
+@inproceedings{papakostas2015monitoring,
+  title={Monitoring breathing activity and sleep patterns using multimodal non-invasive technologies},
+  author={Papakostas, Michalis and Staud, James and Makedon, Fillia and Metsis, Vangelis},
+  booktitle={Proceedings of the 8th ACM International Conference on PErvasive Technologies Related to Assistive Environments},
+  pages={78},
+  year={2015},
+  organization={ACM}
+}
